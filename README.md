@@ -4,6 +4,11 @@ A Salesforce Platform Developer II study project covering advanced Apex,
 Lightning Web Components, integrations, asynchronous processing, testing,
 security, event-driven architecture, deployment, and performance.
 
+# Resources
+
+- Trailhead
+- Focus on Force
+
 ## Development environment
 
 - Salesforce DX source format
